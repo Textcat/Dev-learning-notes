@@ -1,4 +1,3 @@
-# Crawler-notes
-一些学习爬虫时的笔记
+# Dev-learning-notes
 
-Some notes I made while studying crawler
+Some notes I made while learning
